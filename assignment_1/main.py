@@ -121,7 +121,7 @@ def ask_question(**kwargs):
 if __name__ == "__main__":
     try:
         while True:
-            line = input("Enter your question (press Ctrl+C to exit): ")
+            line = input("Enter your question (press Ctrl+D to exit): ")
             response = ask_question(str_or_query_bundle=line)
             print("Response: ")
             print(response)
