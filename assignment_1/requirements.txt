@@ -1,2 +1,13 @@
 beautifulsoup4
 requests
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-llms-anthropic
+llama-index-embeddings-voyageai
+google-generativeai
+openai
+anthropic
+torch==2.3.1
+pydantic==2.8.2
+llama-index-embeddings-huggingface

@@ -1,0 +1,5 @@
+/blogs/
+/database/
+/.idea/
+__pycache__/
+config.json
